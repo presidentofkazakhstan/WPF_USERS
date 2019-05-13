@@ -1,0 +1,5 @@
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Models\bin\Debug\Models.dll
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Models\bin\Debug\Models.pdb
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Models\obj\Debug\Models.dll
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Models\obj\Debug\Models.pdb

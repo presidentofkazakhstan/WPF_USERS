@@ -1,0 +1,9 @@
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\bin\Debug\Services.dll
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\bin\Debug\Services.pdb
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\bin\Debug\BCrypt.Net.dll
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\bin\Debug\BCrypt.Net.xml
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\obj\Debug\Services.dll
+C:\Users\ТынышбаевА.CORP\source\repos\ElementsLesson\Services\obj\Debug\Services.pdb
